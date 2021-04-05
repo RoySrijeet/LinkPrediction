@@ -1,0 +1,1 @@
+A simple link prediction model that uses feature sets consisting of topological similarity metric values (common neighbors, Jaccard coefficient, Adamic-Adar etc.) for node-pairs to predict future links.
