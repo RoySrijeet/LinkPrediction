@@ -1,5 +1,4 @@
-# LinkPrediction
-Recommendation system with link prediction techniques
+# Movie Recommendation Approach with Link Prediction
 
 - MovieLens 1 Million Dataset
 - For details, refer to the documentation
